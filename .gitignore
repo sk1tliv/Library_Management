@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Program tarafından oluşturulan veri dosyaları
+books.dat
+temp.dat
