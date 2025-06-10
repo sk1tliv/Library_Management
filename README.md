@@ -1,2 +1,5 @@
-# Library_Management
-A terminal-based library system written in C language.
+# Library Management System (C)
+
+A terminal-based library system written in C
+
+- Add, list, search, and delete books
